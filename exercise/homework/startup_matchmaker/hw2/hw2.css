@@ -1,0 +1,125 @@
+.bros
+{display:flex;
+background-color: black;
+color:white;
+margin-left: 2.1%;
+margin-right: 2%;
+}
+
+
+h1 {
+  color:yellow;
+  background-color: black;
+  padding-left:20px;
+  padding-top: 20px;
+  margin: 0px;
+  margin-top: 1%;
+  margin-left: 2.1%;
+  margin-right: 2%;
+  font-size:40px;
+  font-family: serif;
+
+  }
+  .two-bros{
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  width: 23%;
+  justify-content: flex-end;
+  justify-content: space-between;
+  color:white;
+  margin: 2%;
+  margin-left:20%;
+  padding-left:4%;
+  font-family: Impact, Charcoal, sans-serif;
+  }
+
+  .three-bros{
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  width: 23%;
+  margin: 2%;
+  margin-left:0%;
+  justify-content: flex-end;
+  justify-content: space-between;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  color:white;
+}
+.new {
+  margin-left: 2.1%;
+  margin-right: 2%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 2px solid yellow;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+  font-family: serif;
+  margin-top: 0px;
+  margin-bottom:0px;
+  padding-right: 3%;
+  margin-left:2.1%;
+  margin-right: 2%;
+  background-color: rgb(208,208,208);
+  padding:2%;
+}
+
+img{
+  margin:auto;
+  width:1200px;
+
+}
+.centered {
+  position: absolute;
+  top: 70%;
+  left: 75%;
+  padding:25px;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color:rgb(208,208,208,0.8);
+  transform: translate(-50%, -50%);
+}
+button{
+  width:250px;
+  display: inline-block;
+  padding:10px;
+  position:center;
+  background-color: yellow;
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.last {
+  display: flex;
+  text-align: center;
+  max-width: 1280px;
+  margin: auto;
+  background:white;
+  overflow:hidden;
+
+}
+
+.last1{
+  float: left;
+  width: 300px;
+margin-left: 20px;
+  text-align: center;
+  padding-left: 5%;
+}
+}
+
+.last2 {
+  float: left;
+  width: 300px;
+  padding-left: 3%;
+margin-left: 20px;
+  text-align: center;
+}
+.last3 {
+  float: left;
+  width: 300px;
+  text-align: center;
+}
